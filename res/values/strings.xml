@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GroceryPro</string>
+    
+    <!-- grocery lists -->
+    <string name="button_new_list">Create new list</string>
+    <string name="button_done">Done</string>
+    <string name="text_no_grocery_list_items">You don\'t have any grocery list to display.\n\n To add grocery list, touch \"Create new list\" button.</string>
+
+    <!--  grocery lists context menu items -->
+    <string name="menu_item_grocery_list_delete">Delete</string>
+    <string name="menu_item_grocery_list_share">Share</string>
+    <string name="menu_item_grocery_list_change_name">Rename</string>
+    <string name="menu_item_grocery_list_edit">Edit</string>
+    
+    <!--  grocery lists menu items -->
+    <string name="menu_item_grocery_lists_sort_date">Sort by date</string>
+    <string name="menu_item_grocery_lists_sort_name">Sort by name</string>
+    
+    <!-- Add/rename groceryList -->
+    <string name="button_rename_grocery_list">Change</string>
+    <string name="title_rename_grocery_list">Change list name</string>
+    <string name="title_add_grocery_list">Add list</string>
+    <string name="hint_text_grocery_list_name">Enter list name</string>
+    
+    <!-- Add groceryList by voice -->
+    <string name="voice_hint_create_list">Dictate products now</string>
+    <string name="voice_hint_search_for_product">Say product name now</string> 
+    <string name="creating_list_by_voice_wait">Creating list. Please wait...</string> 
+    
+    <!-- GroceryList already exits -->
+    <string name="dialog_grocery_list_already_exists">\"%s\" already exists. Choose different name.</string>
+    
+    <!-- grocery list misc -->
+    <string name="title_sort_by">Sort by</string>
+    
+    <!-- product selector -->
+    <string name="hint_text_find_products">Find products</string>
+    <string name="text_no_products_found">There is no product matching your search criteria.\n\n To add product touch add button (+) or press Menu and touch \"Add product\".</string>
+    <string name="text_change_product_icon">Would you like to choose an icon from your gallery or take a new photo with the camera?</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_camera">Camera</string>
+    
+    <!--  product selector menu items -->
+    <string name="menu_item_product_selector_clear_count">Remove all</string>
+    <string name="menu_item_product_selector_rename">Rename</string>
+    <string name="menu_item_product_selector_delete">Delete</string>
+    <string name="menu_item_product_selector_add_new">Add product</string>
+    <string name="menu_item_sort_products_by_popularity">Sort by popularity</string>
+    <string name="menu_item_sort_products_by_name">Sort by name</string>
+    <string name="menu_item_product_decrease_count_by_one">Remove one</string>
+    <string name="menu_item_product_selector_change_icon">Change icon</string>
+    
+    <!-- Add/rename product  -->
+    <string name="button_rename_product">Change</string>
+    <string name="title_rename_product">Change product name</string>
+    <string name="title_add_product">Add new product</string>
+    <string name="hint_text_product_name">Enter product name</string>
+    <!-- Product already exits -->
+    <string name="dialog_product_already_exists">\"%s\" already exists. Choose different name.</string>
+    <!-- Add product after filtering -->
+    <string name="dialog_add_new_product">Add new product: \"%s\"?</string>
+    <string name="product_renamed">Product renamed.</string>
+    <string name="product_added">Product added.</string>
+    
+    <!-- Shopping List -->
+    <string name="button_finish_later">Finish shopping later</string>
+    <string name="text_no_shopping_list_items">You don\'t have any shopping list items to display.\n\n You can show purchased items: press Menu and touch \"Show purchased items\" or if this list is empty you can remove it when you go back to grocery lists view.</string>
+    
+    <!--  shopping list menu items -->
+    <string name="menu_item_show_purchased_items">Show purchased items</string>
+    <string name="menu_item_hide_purchased_items">Hide purchased items</string>
+    
+    <!-- ShoppingList remove -->
+    <string name="dialog_confirm_remove_shopping_list">"You purchased all items from \"%s\". Delete?"</string>
+    
+    <!-- Error Handler -->
+    <string name="dialog_title_generic_error">Error</string>
+    <string name="error_could_not_share">List could not be shared. Setup your email application.</string>
+    <string name="error_could_not_rename_product">Product could not be renamed.</string>
+    <string name="error_could_not_add_product">Product could not be added.</string>
+    
+    <!-- Delete confirmation dialog -->
+    <string name="dialog_confirm_grocery_list_delete">\"%s\" is going to be removed.</string>
+    <string name="dialog_confirm_product_delete">\"%s\" is going to be removed  from product database.</string>
+    <string name="dialog_confirm_title_warning">Warning</string>
+    
+    <!-- Share grocery list subject -->
+    <string name="share_grocery_list_subject">Grocery list: \"%s\".</string>
+    <string name="share_grocery_list_body">Please buy following items:\n%s</string>
+    
+    <!-- Warning strings -->
+    <string name="name_forbidden_character">Name contains prohibited character: \" \nChange name to continue.</string>
+    <string name="name_forbidden_character_automatic_removal">Name contains prohibited character: \" \nApplication is removing character automatically...</string>
+        
+</resources>

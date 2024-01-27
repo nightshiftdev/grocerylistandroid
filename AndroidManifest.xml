@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.etcapps.grocerylist"
+      android:versionCode="7" android:versionName="2.0.0">
+    <application android:icon="@drawable/grocery_list"
+    			 android:debuggable="true" 
+    			 android:label="@string/app_name"
+    			 android:name="com.etcapps.grocerylist.GroceryListApplication">
+        <activity android:name=".GroceryListActivity"
+                  android:label="@string/app_name"
+                  android:configChanges="orientation|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+       	<activity android:name=".AddRenameGroceryListActivity"
+        		  android:theme="@android:style/Theme.Dialog"
+        		  android:configChanges="orientation|keyboardHidden">
+        </activity>
+        
+        <activity android:name=".ProductSelectorActivity"
+        		  android:configChanges="orientation|keyboardHidden">
+        </activity>
+        
+        <activity android:name=".AddRenameProductActivity"
+        		  android:theme="@android:style/Theme.Dialog"
+        		  android:configChanges="orientation|keyboardHidden">
+        </activity>
+        
+        <activity android:name=".ShoppingListActivity"
+                  android:configChanges="orientation|keyboardHidden">
+        </activity>
+        
+
+    </application>
+    <uses-sdk android:minSdkVersion="4" />
+
+</manifest> 

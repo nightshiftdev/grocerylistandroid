@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:orientation="vertical"
+			  android:layout_width="wrap_content"
+			  android:layout_height="wrap_content">    
+	    
+	<EditText android:id="@+id/grocery_list_name"
+ 		android:layout_width="fill_parent"
+	 	android:layout_height="wrap_content"
+	  	android:singleLine="true"
+	  	android:selectAllOnFocus="true"
+	    android:maxLength="50"
+	  	android:hint="@string/hint_text_grocery_list_name"/>	    	    
+	    	  
+ 	<LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="bottom"
+        style="@android:style/ButtonBar">
+
+        <Button android:id="@+id/button_grocery_list_add"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@android:string/ok"/>
+            
+        <ImageButton xmlns:android="http://schemas.android.com/apk/res/android"
+					 android:id="@+id/button_new_list_by_voice"
+					 android:layout_width="wrap_content"
+					 android:layout_height="wrap_content"
+					 android:src="@drawable/zzz_must_be_always_last_mic_icon"/>
+
+        <Button android:id="@+id/button_grocery_list_cancel"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@android:string/cancel"/>
+
+    </LinearLayout>
+
+</LinearLayout>

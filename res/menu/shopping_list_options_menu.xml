@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/menu_item_grocery_list_edit"
+          android:title="@string/menu_item_grocery_list_edit"
+          android:icon="@android:drawable/ic_menu_edit"
+    />
+    
+   	<item android:id="@+id/menu_item_show_hide_purchased_items"
+          android:title="@string/menu_item_show_purchased_items"
+          android:icon="@drawable/icon_hide_unhide_purchased_items"
+    />
+    
+    <item android:id="@+id/menu_item_grocery_list_share"
+          android:title="@string/menu_item_grocery_list_share"
+          android:icon="@drawable/icon_share_list"
+    />
+        
+</menu>

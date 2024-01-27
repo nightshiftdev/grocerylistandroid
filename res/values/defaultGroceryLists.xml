@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="defaultGroceryLists">
+		<item>Weekly</item>
+		<item>Green Bean Casserole</item>
+		<item>Banana Bread</item>
+	</array>
+	<array name="weeklyItems">
+		<item>bread</item>
+		<item>butter</item>
+		<item>orange juice</item>
+		<item>eggs</item>
+		<item>milk</item>
+	</array>
+	<array name="weeklyItemsCount">
+		<item>2</item>
+		<item>1</item>
+		<item>3</item>
+		<item>24</item>
+		<item>2</item>
+	</array>
+	<array name="casserolesItems">
+	    <item>mushroom soup</item>
+   		<item>peppers</item>
+   		<item>milk</item>
+   		<item>onions</item>
+		<item>green beans</item>
+	</array>
+	<array name="casserolesItemsCount">
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+	</array>
+	<array name="bananaBreadItems">
+		<item>flour</item>
+		<item>baking soda</item>
+		<item>salt</item>
+		<item>butter</item>
+		<item>brown sugar</item>
+		<item>eggs</item>
+		<item>bananas</item>
+	</array>
+	<array name="bananaBreadItemsCount">
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</array>
+</resources>

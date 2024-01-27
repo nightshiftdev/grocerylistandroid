@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="defaultProducts">		
+		<item>grapefruit</item>
+		<item>mango</item>
+		<item>peaches</item>
+		<item>raspberries</item>
+		<item>watermelon</item>
+		<item>limes</item>
+		<item>kiwi</item>
+		<item>apples</item>
+		<item>pears</item>
+		<item>oranges</item>
+		<item>bananas</item>
+		<item>grapes</item>
+		<item>strawberries</item>
+		<item>blueberries</item>
+		<item>cherries</item>
+		<item>pineapple</item>
+		<item>lemons</item>
+		<item>potatoes</item>
+		<item>lettuce</item>
+		<item>broccoli</item>
+		<item>cauliflower</item>
+		<item>carrots</item>
+		<item>celery</item>
+		<item>onions</item>
+		<item>garlic</item>
+		<item>cucumber</item>
+		<item>squash</item>
+		<item>zucchini</item>
+		<item>radish</item>
+		<item>corn</item>
+		<item>green beans</item>
+		<item>peppers</item>
+		<item>mushrooms</item>
+		<item>eggplant</item>
+		<item>tomatoes</item>
+		<item>water</item>
+		<item>coke</item>
+		<item>soda</item>
+		<item>hot chocolate</item>
+		<item>orange juice</item>
+		<item>apple juice</item>
+		<item>lemonade</item>
+		<item>iced tea</item>
+		<item>tomato juice</item>
+		<item>tea</item>
+		<item>green tea</item>
+		<item>coffee</item>
+		<item>mocha</item>
+		<item>beer</item>
+		<item>alcohol</item>
+		<item>wine</item>
+		<item>half and half</item>
+		<item>margarine</item>
+		<item>yogurt</item>
+		<item>formula</item>
+		<item>cream cheese</item>
+		<item>sour cream</item>
+		<item>milk</item>
+		<item>butter</item>
+		<item>cheese</item>
+		<item>eggs</item>
+		<item>pudding</item>
+		<item>crackers</item>
+		<item>pita bread</item>
+		<item>bread</item>
+		<item>rolls</item>
+		<item>croissants</item>
+		<item>waffles</item>
+		<item>rice cakes</item>
+		<item>cookies</item>
+		<item>muffins</item>
+		<item>donuts</item>
+		<item>apple pie</item>
+		<item>cake</item>
+		<item>chocolate</item>
+		<item>candy</item>
+		<item>eclairs</item>
+		<item>popsicles</item>
+		<item>ice cream</item>
+		<item>gum</item>
+		<item>pizza</item>
+		<item>hotdogs</item>
+		<item>burger</item>
+		<item>fries</item>
+		<item>chips</item>
+		<item>tuna</item>
+		<item>shrimp</item>
+		<item>ground beef</item>
+		<item>ground turkey</item>
+		<item>bacon</item>
+		<item>turkey</item>
+		<item>chicken</item>
+		<item>fish</item>
+		<item>lobster</item>
+		<item>salmon</item>
+		<item>ham</item>
+		<item>pork chops</item>
+		<item>steak</item>
+		<item>black pepper</item>
+		<item>spices</item>
+		<item>relish</item>
+		<item>mayonnaise</item>
+		<item>oil</item>
+		<item>bread crumbs</item>
+		<item>rice</item>
+		<item>salad dressing</item>
+		<item>jelly</item>
+		<item>dog food</item>
+		<item>cat food</item>
+		<item>ketchup</item>
+		<item>mustard</item>
+		<item>pickles</item>
+		<item>flour</item>
+		<item>salt</item>
+		<item>sugar</item>
+		<item>brown sugar</item>
+		<item>baking soda</item>
+		<item>honey</item>
+		<item>cereal</item>
+		<item>oatmeal</item>
+		<item>popcorn</item>
+		<item>ice</item>
+		<item>peanut butter</item>
+		<item>peanuts</item>
+		<item>almonds</item>
+		<item>cashews</item>
+		<item>pistachios</item>
+		<item>walnuts</item>
+		<item>hazelnuts</item>
+		<item>tomato soup</item>
+		<item>mushroom soup</item>
+		<item>chicken soup</item>
+		<item>soup</item>
+		<item>salad</item>
+		<item>pasta</item>
+		<item>spaghetti</item>
+		<item>shampoo</item>
+		<item>conditioner</item>
+		<item>hair gel</item>
+		<item>hair moose</item>
+		<item>hair spray</item>
+		<item>body wash</item>
+		<item>deodorant</item>
+		<item>body lotion</item>
+		<item>face wash</item>
+		<item>soap</item>
+		<item>face cream</item>
+		<item>shaving gel</item>
+		<item>pimple cream</item>
+		<item>makeup remover</item>
+		<item>toothpaste</item>
+		<item>toothbrush</item>
+		<item>mouthwash</item>
+		<item>dental floss</item>
+		<item>toilet bowl cleaner</item>
+		<item>bathroom cleaner</item>
+		<item>tissues</item>
+		<item>toilet paper</item>
+		<item>cotton balls</item>
+		<item>nail polish remover</item>
+		<item>nail files</item>
+		<item>laundry detergent</item>
+		<item>fabric softener</item>
+		<item>softener sheets</item>
+		<item>bleach</item>
+		<item>dish detergent</item>
+		<item>dishwasher detergent</item>
+		<item>glass cleaner</item>
+		<item>kitchen cleaner</item>
+		<item>sponges</item>
+		<item>garbage bags</item>
+		<item>sandwich bags</item>
+		<item>aluminum foil</item>
+		<item>plastic wrap</item>
+		<item>duster</item>
+		<item>pain killers</item>
+		<item>prescription</item>
+	</array>
+</resources>

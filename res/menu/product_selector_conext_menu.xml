@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@+id/menu_item_product_clear_count"
+          android:title="@string/menu_item_product_selector_clear_count"
+    />
+    
+    <item android:id="@+id/menu_item_product_decrease_count_by_one"
+          android:title="@string/menu_item_product_decrease_count_by_one"
+    />
+    
+    <item android:id="@+id/menu_item_product_rename"
+          android:title="@string/menu_item_product_selector_rename"
+    />
+
+</menu>

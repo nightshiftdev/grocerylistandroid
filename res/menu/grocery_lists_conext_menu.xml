@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@+id/menu_item_grocery_list_edit"
+          android:title="@string/menu_item_grocery_list_edit"
+    />
+
+	<item android:id="@+id/menu_item_grocery_list_change_name"
+          android:title="@string/menu_item_grocery_list_change_name"
+    />
+
+    <item android:id="@+id/menu_item_grocery_list_share"
+          android:title="@string/menu_item_grocery_list_share"
+    />
+    
+    <item android:id="@+id/menu_item_grocery_list_delete"
+          android:title="@string/menu_item_grocery_list_delete"
+    />
+
+</menu>

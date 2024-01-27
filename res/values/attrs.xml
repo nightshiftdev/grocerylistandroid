@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ProductSelectorGridView. -->
+    <declare-styleable name="ProductSelectorGridView">
+        <!-- The background texture. -->
+        <attr name="texture" format="reference"  />
+    </declare-styleable>
+</resources>

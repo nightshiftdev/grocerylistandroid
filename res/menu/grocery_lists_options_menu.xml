@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+   	<item android:id="@+id/menu_item_sort_grocery_lists_by_date"
+          android:title="@string/menu_item_grocery_lists_sort_date"
+          android:icon="@drawable/icon_sort_grocery_lists_by_date"
+    />
+    
+    <item android:id="@+id/menu_item_sort_grocery_lists_by_name"
+          android:title="@string/menu_item_grocery_lists_sort_name"
+          android:icon="@drawable/icon_sort_grocery_lists_by_name"
+    />
+</menu>
